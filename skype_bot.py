@@ -12,7 +12,7 @@ user = server.get_whoami()
 version = server.get_version()
 
 """
-Please follow format as below with or without spaces.
+Please follow the format as below with or without spaces.
     1 : SHUTDOWN : {server name}
     2 : RESTART : {server name}
     3 : BUILD : {server name}
